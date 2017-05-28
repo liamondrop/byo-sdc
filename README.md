@@ -2,7 +2,7 @@
 
 This repository will present the topic of retrofitting a hobbyist car for the purpose of driving autonomously, as well as collecting a number of resources for making that goal a reality.
 
-* WHY?
+## WHY?
   - Apply theory
     -  Move from working code to code that functions in real world conditions.
   - Less expensive, obviously
@@ -15,6 +15,22 @@ This repository will present the topic of retrofitting a hobbyist car for the pu
   - Push the boundaries of Sensing, Perception and Control
     - "If everything seems under control, you’re not going fast enough."
 
+## WHAT?
+  - Car
+    - Magnet 1/16 ~$90
+    - Traxxas 1/10 ~$300
+  - Sensors
+    - Camera
+    - Lidar
+    - IR Depth Imaging
+    - IMU (Inertial Measurement Units)
+    - Radar, Sonar, etc.
+  - Brain
+    - Raspberry Pi (Zero or 3) - Cheap, but less powerful. Requires lightweight, efficient computation or else relaying sensor data to more powerful computer and sending steering and speed controls to car (but this also comes with its own tradeoffs… Latency)
+    - Android (Android Robocar)
+    - Nvidia Jetson Series - More powerful micro-controller for onboard computation
+
+## HOW?
 * < $100
   - Simple Raspberry Pi Car Video
   - Slide about the simple car
@@ -30,22 +46,7 @@ This repository will present the topic of retrofitting a hobbyist car for the pu
   - MIT RACECAR
   - BARC Project
 
-* What Does it take
-  - Car
-    - Magnet 1/16 ~$90
-    - Traxxas 1/10 ~$300
-  - Sensors
-    - Camera
-    - Lidar
-    - IR Depth Imaging
-    - IMU (Inertial Measurement Units)
-    - Radar, Sonar, etc.
-  - Brain
-    - Raspberry Pi (Zero or 3) - Cheap, but less powerful. Requires lightweight, efficient computation or else relaying sensor data to more powerful computer and sending steering and speed controls to car (but this also comes with its own tradeoffs… Latency)
-    - Android (Android Robocar)
-    - Nvidia Jetson Series - More powerful micro-controller for onboard computation
-
-* OTHER RESOURCES
+## OTHER RESOURCES
   - Education
     - Udacity Self-driving Car Engineer Nanodegree: https://www.udacity.com/drive
     - Georgia Tech AI for Robotics: https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
@@ -58,7 +59,7 @@ This repository will present the topic of retrofitting a hobbyist car for the pu
   - Meetups
     - DIY Robocars (SF, DC, Austin, NYC (brand new!)
 
-* COMPETITIONS
+## COMPETITIONS
   - SparkFun AVC: https://avc.sparkfun.com/
   - Formula Pi: https://www.formulapi.com/
   - Formula 1/10: http://f1tenth.org/competition
