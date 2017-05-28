@@ -23,7 +23,7 @@ This repository will present the topic of retrofitting a hobbyist car for the pu
   - RPi/Arduino
   - Donkey
   - Android Robocar
-  - MonsterBorg https://www.piborg.org/monsterborg-preorder
+  - MonsterBorg: https://www.piborg.org/monsterborg-preorder
 
 * Advanced $1000+
   - Formula 1/10 (Great series of lectures in addition to plans for building car)
@@ -45,19 +45,20 @@ This repository will present the topic of retrofitting a hobbyist car for the pu
     - Android (Android Robocar)
     - Nvidia Jetson Series - More powerful micro-controller for onboard computation
 
-
 * OTHER RESOURCES
-  - Classes
-    - Udacity SDCND
-    - Georgia Tech AI4R
-    - Georgia Tech Control of Mobile Robotics
-    - MIT Deep Learning for SDC
-  - Donkey (Slack channel)
-  - OSSDC
+  - Education
+    - Udacity Self-driving Car Engineer Nanodegree: https://www.udacity.com/drive
+    - Georgia Tech AI for Robotics: https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
+    - Georgia Tech Control of Mobile Robotics: https://www.coursera.org/learn/mobile-robot
+    - Formula 1/10 UPenn Lectures: http://f1tenth.org/lectures
+    - MIT Deep Learning for SDC: http://selfdrivingcars.mit.edu/
+  - Community
+    - Donkey: http://www.donkeycar.com/
+    - OSSDC: http://ossdc.org/
   - Meetups
     - DIY Robocars (SF, DC, Austin, NYC (brand new!)
 
-* COMPETITION
-  - SparkFun AVC
-  - Formula Pi https://www.formulapi.com/
-  - Formula 1/10
+* COMPETITIONS
+  - SparkFun AVC: https://avc.sparkfun.com/
+  - Formula Pi: https://www.formulapi.com/
+  - Formula 1/10: http://f1tenth.org/competition
