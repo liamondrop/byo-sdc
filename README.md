@@ -20,31 +20,33 @@ This repository will present the topic of retrofitting a hobbyist car for the pu
     - Magnet 1/16 ~$90
     - Traxxas 1/10 ~$300
   - Sensors
-    - Camera
-    - Lidar
-    - IR Depth Imaging
-    - IMU (Inertial Measurement Units)
+    - Camera: visual perception
+    - Lidar: spatial/depth perception with pulsed laser range sensors
+    - IR Depth Imaging: spatial/depth perception using projected infrared light and camera
+    - IMU (Inertial Measurement Units): measures and velocity and angular rate using a combination of accelerometers and gyroscopes
     - Radar, Sonar, etc.
-  - Brain
-    - Raspberry Pi (Zero or 3) - Cheap, but less powerful. Requires lightweight, efficient computation or else relaying sensor data to more powerful computer and sending steering and speed controls to car (but this also comes with its own tradeoffs… Latency)
-    - Android (Android Robocar)
-    - Nvidia Jetson Series - More powerful micro-controller for onboard computation
+  - Controller
+    - The sensors are interfaced with a computer or computers, onboard and remotely via Wifi, which gather than sensor data and relay it to the software
+      - Raspberry Pi (Zero or 3) - Cheap, but less powerful, often delegates perception and planning to another computer, such as a laptop
+      - Nvidia Jetson Series - More powerful micro-controller for onboard computation
+      - Android, Beaglebone, etc.
+  - Software
+    - Perception and planning algorithms process and combine the sensor data and send back steering and throttle commands to the car
 
 ## HOW?
 * < $100
-  - Simple Raspberry Pi Car Video
-  - Slide about the simple car
+  - Simple Raspberry Pi Car: https://diyrobocars.com/simple-raspberrypi-car/
 
-* $150-500 (But still pretty affordable)
-  - RPi/Arduino
-  - Donkey
-  - Android Robocar
+* $150-500
+  - RPi/Arduino: https://www.wilselby.com/research/autonomous-vehicles/diy-autonomous-vehicle-project/
+  - Donkey Car: http://www.donkeycar.com/ 
+  - Android Robocar: https://github.com/zugaldia/android-robocar
   - MonsterBorg: https://www.piborg.org/monsterborg-preorder
 
-* Advanced $1000+
-  - Formula 1/10 (Great series of lectures in addition to plans for building car)
-  - MIT RACECAR
-  - BARC Project
+* $1000+
+  - Formula 1/10: http://f1tenth.org/car-assembly
+  - BARC Project: http://www.barc-project.com/
+  - MIT RACECAR: https://mit-racecar.github.io/ (also the helpful Jetson Hacks video series: https://www.youtube.com/playlist?list=PLXYLzZ3XzIbi3djynrdC1ofn-54WpIFbN)
 
 ## OTHER RESOURCES
   - Education
@@ -54,10 +56,13 @@ This repository will present the topic of retrofitting a hobbyist car for the pu
     - Formula 1/10 UPenn Lectures: http://f1tenth.org/lectures
     - MIT Deep Learning for SDC: http://selfdrivingcars.mit.edu/
   - Community
-    - Donkey: http://www.donkeycar.com/
-    - OSSDC: http://ossdc.org/
-  - Meetups
-    - DIY Robocars (SF, DC, Austin, NYC (brand new!)
+    - Donkey (Request invite to their Slack channel): http://www.donkeycar.com/
+    - OSSDC (Also has a Slack channel): http://ossdc.org/
+    - DIY Robocars (Meetups)
+      - SF
+      - DC
+      - Austin
+      - NYC
 
 ## COMPETITIONS
   - SparkFun AVC: https://avc.sparkfun.com/
