@@ -1,21 +1,24 @@
 # BUILD YOUR OWN SELF-DRIVING CAR
 
-This repository will present the topic of retrofitting a hobbyist car for the purpose of driving autonomously, as well as collecting a number of resources for making that goal a reality.
+This repository will present the topic of retrofitting a hobbyist car for the purpose of driving autonomously, as well as collecting a number of resources for making that goal a reality. We hope to see the rise of the Homebrew Computing Club for the autonomous vehicle industry, an opportunity for amateurs, students, and DIYers to participate in a way that is cheap, easy and fun.
 
-## WHY?
-  - Crashing an RC car is not a catastrophic event in the way that a full-size car crash is
-    - While that's on obvious statement, what is perhaps less obvious is the fact that fear of catastrophic failure leads us to optimize for safety without really pushing the boundaries of what the technology can do.
-  - Real world beats canned video / Simulation
-    - Move from working code to code that functions in real world conditions. (Udacity Simulator vs Real-time live footage)
-  - Democratize the technology
+MOOCs have given us unprecedented access to classroom learning, and from this democratization of knowledge, we’ve already seen a huge surge in creativity, collaboration and experimentation that comes from an open-source culture. We want to extend that all the way to the hardware and the sensors and prove that the software we write and the models we train can really hold their own under real world conditions.
+
+### WHY?
+  - *Democratize the technology*
     - The architecture of a self-driving RC car is not in principle different from that of a full-sized vehicle. This puts the full autonomous vehicle architecture within reach of anyone who wants to learn. You now have the ability to work with the full menu of sensors, micro controllers, motors, etc.
-    - Show possible sensors
+  - *Real world beats canned video / Simulation*
+    - With the classes available, we have been able to write the algorithms for things like steering control, obstacle detection, and path planning. But having a physical platform allows us to move from working code to code that functions in real world conditions. (Udacity Simulator vs Real-time live footage)
+  - *Safety and Cost*
+    - Crashing an RC car is not a catastrophic event in the way that a full-size car crash is
+    - Fear of catastrophic failure leads us to optimize for safety and for preserving precious equipment without really pushing the boundaries of what the technology can do.
+    - On a cheap, small scale platform, we have the freedom to explore and experiment in ways that researchers working on full-sized cars cannot.
   - Push the boundaries of Sensing, Perception and Control
-    - "If everything seems under control, you’re not going fast enough."
-  - It's just fun!
+    - There’s a quote in Formula 1 racing, “If everything seems under control, you’re not going fast enough.” We want to push the limits of what our software and hardware can do. We want to move fast, break things, learn, and have fun!
+
 
 ## WHAT?
-  - Car
+  - Chassis
     - Magnet 1/16 ~$90
     - Traxxas 1/10 ~$300
   - Sensors
