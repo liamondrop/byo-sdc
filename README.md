@@ -21,8 +21,8 @@ MOOCs have given us unprecedented access to classroom learning, and from this de
 
 ### WHAT DOES IT TAKE TO BUILD?
   - **Chassis**
-    - Magnet 1/16 ~$90
-    - Traxxas 1/10 ~$300
+    - Magnet 1/16 ~$90: http://www.nitrorcx.com/51c853-stripeblue-24-ghz.html
+    - Traxxas 1/10 ~$300: https://traxxas.com/products/models/electric/NOS-Deegan-38-Rally
   - **Sensors**
     - Camera: visual perception
     - Lidar: spatial/depth perception with pulsed laser range sensors
