@@ -36,29 +36,31 @@ MOOCs have given us unprecedented access to classroom learning, and from this de
     - Open source software like ROS, OpenCV, Tensorflow, etc.
     - Perception and planning algorithms process and combine the sensor data and send back steering and throttle commands to the car
 
-### HOW?
-* < $100
+### HOW DO I GET STARTED?
+Fortunately, there are already a number of guides we can follow to get started.
+
+* **Simple: <$100**
   - Simple Raspberry Pi Car: https://diyrobocars.com/simple-raspberrypi-car/
 
-* $150-500
+* **Intermediate: $150-500**
   - RPi/Arduino: https://www.wilselby.com/research/autonomous-vehicles/diy-autonomous-vehicle-project/
   - Donkey Car: http://www.donkeycar.com/ 
   - Android Robocar: https://github.com/zugaldia/android-robocar
   - MonsterBorg: https://www.piborg.org/monsterborg-preorder
 
-* $1000+
+* **Advanced: $1000+**
   - Formula 1/10: http://f1tenth.org/car-assembly
   - BARC Project: http://www.barc-project.com/
   - MIT RACECAR: https://mit-racecar.github.io/ (also the helpful Jetson Hacks video series: https://www.youtube.com/playlist?list=PLXYLzZ3XzIbi3djynrdC1ofn-54WpIFbN)
 
 ## OTHER RESOURCES
-  - Education
+  - **Education**
     - Udacity Self-driving Car Engineer Nanodegree: https://www.udacity.com/drive
     - Georgia Tech AI for Robotics: https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
     - Georgia Tech Control of Mobile Robotics: https://www.coursera.org/learn/mobile-robot
     - Formula 1/10 UPenn Lectures: http://f1tenth.org/lectures
     - MIT Deep Learning for SDC: http://selfdrivingcars.mit.edu/
-  - Community
+  - **Community**
     - Donkey (Request invite to their Slack channel): http://www.donkeycar.com/
     - OSSDC (Also has a Slack channel): http://ossdc.org/
     - DIY Robocars (Meetups)
