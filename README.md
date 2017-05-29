@@ -13,11 +13,11 @@ MOOCs have given us unprecedented access to classroom learning, and from this de
     - Crashing an RC car is not a catastrophic event in the way that a full-size car crash is
     - Fear of catastrophic failure leads us to optimize for safety and for preserving precious equipment without really pushing the boundaries of what the technology can do.
     - On a cheap, small scale platform, we have the freedom to explore and experiment in ways that researchers working on full-sized cars cannot.
-  - Push the boundaries of Sensing, Perception and Control
+  - *Push the boundaries of Sensing, Perception and Control*
     - There’s a quote in Formula 1 racing, “If everything seems under control, you’re not going fast enough.” We want to push the limits of what our software and hardware can do. We want to move fast, break things, learn, and have fun!
 
 
-## WHAT?
+### WHAT?
   - Chassis
     - Magnet 1/16 ~$90
     - Traxxas 1/10 ~$300
@@ -35,7 +35,7 @@ MOOCs have given us unprecedented access to classroom learning, and from this de
   - Software
     - Perception and planning algorithms process and combine the sensor data and send back steering and throttle commands to the car
 
-## HOW?
+### HOW?
 * < $100
   - Simple Raspberry Pi Car: https://diyrobocars.com/simple-raspberrypi-car/
 
@@ -67,6 +67,7 @@ MOOCs have given us unprecedented access to classroom learning, and from this de
       - NYC: https://www.meetup.com/DIY-Robocars-NYC/
 
 ## COMPETITIONS
+Competitions are a great way to motivate the problem, focus our efforts, and get exposed to what people are doing in the world.
   - SparkFun AVC: https://avc.sparkfun.com/
   - Formula Pi: https://www.formulapi.com/
   - Formula 1/10: http://f1tenth.org/competition
