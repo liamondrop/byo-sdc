@@ -3,17 +3,16 @@
 This repository will present the topic of retrofitting a hobbyist car for the purpose of driving autonomously, as well as collecting a number of resources for making that goal a reality.
 
 ## WHY?
-  - Apply theory
-    -  Move from working code to code that functions in real world conditions.
-  - Less expensive, obviously
-  - Safer, obviously
-    - Crashing an RC car is not a catastrophic event
+  - Crashing an RC car is not a catastrophic event in the way that a full-size car crash is
+    - While that's on obvious statement, what is perhaps less obvious is the fact that fear of catastrophic failure leads us to optimize for safety without really pushing the boundaries of what the technology can do.
   - Real world beats canned video / Simulation
-    - show Udacity Simulator vs Real-time live footage
-  - Work with Sensors, micro controllers (want to experiment with Lidar/Radar/etc?)
+    - Move from working code to code that functions in real world conditions. (Udacity Simulator vs Real-time live footage)
+  - Democratize the technology
+    - The architecture of a self-driving RC car is not in principle different from that of a full-sized vehicle. This puts the full autonomous vehicle architecture within reach of anyone who wants to learn. You now have the ability to work with the full menu of sensors, micro controllers, motors, etc.
     - Show possible sensors
   - Push the boundaries of Sensing, Perception and Control
     - "If everything seems under control, you’re not going fast enough."
+  - It's just fun!
 
 ## WHAT?
   - Car
@@ -59,10 +58,10 @@ This repository will present the topic of retrofitting a hobbyist car for the pu
     - Donkey (Request invite to their Slack channel): http://www.donkeycar.com/
     - OSSDC (Also has a Slack channel): http://ossdc.org/
     - DIY Robocars (Meetups)
-      - SF
-      - DC
-      - Austin
-      - NYC
+      - SF: https://www.meetup.com/DIYRobocars/
+      - DC: https://www.meetup.com/DIYRobocarsDC/
+      - Austin: https://www.meetup.com/DIYRobocarsATX/
+      - NYC: https://www.meetup.com/DIY-Robocars-NYC/
 
 ## COMPETITIONS
   - SparkFun AVC: https://avc.sparkfun.com/
