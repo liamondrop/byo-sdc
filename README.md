@@ -9,12 +9,14 @@ MOOCs have given us unprecedented access to classroom learning, and from this de
     - The architecture of a self-driving RC car is not in principle different from that of a full-sized vehicle. This puts the full autonomous vehicle architecture within reach of anyone who wants to learn. You now have the ability to work with the full menu of sensors, micro controllers, motors, etc.
   - **Real world data beats canned video / simulation**
     - With the classes available, we have been able to write the algorithms for things like steering control, obstacle detection, and path planning. But having a physical platform allows us to move from working code to code that functions in real world conditions. (Udacity Simulator vs Real-time live footage)
-  - **Safety and Cost**
-    - Crashing an RC car is not a catastrophic event in the way that a full-size car crash is
-    - Fear of catastrophic failure leads us to optimize for safety and for preserving precious equipment without really pushing the boundaries of what the technology can do.
+  - **Cost**
     - On a cheap, small scale platform, we have the freedom to explore and experiment in ways that researchers working on full-sized cars cannot.
+  - **Safety**
+    - Fear of catastrophic failure leads us to optimize for safety and for preserving precious equipment without really pushing the boundaries of what the technology can do.
+    - Crashing an RC car is not a catastrophic event in the way that crashing a full-size car is
   - **Push the boundaries of Sensing, Perception and Control**
-    - There’s a quote in Formula 1 racing, “If everything seems under control, you’re not going fast enough.” We want to push the limits of what our software and hardware can do. We want to move fast, break things, learn, and have fun!
+    - There’s a quote by Mario Andretti, “If everything seems under control, you’re not going fast enough.”
+    - We want to push the limits of what our software and hardware can do. We want to move fast, break things, learn, and have fun!
 
 
 ### WHAT DOES IT TAKE TO BUILD?
