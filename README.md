@@ -41,10 +41,7 @@ MOOCs have given us unprecedented access to classroom learning, and from this de
 ### HOW DO I GET STARTED?
 Fortunately, there are already a number of guides we can follow to get started.
 
-* **Simple: <$100**
-  - Simple Raspberry Pi Car: https://diyrobocars.com/simple-raspberrypi-car/
-
-* **Intermediate: $150-500**
+* **Basic: $150-500**
   - RPi/Arduino: https://www.wilselby.com/research/autonomous-vehicles/diy-autonomous-vehicle-project/
   - Donkey Car: http://www.donkeycar.com/ 
   - Android Robocar: https://github.com/zugaldia/android-robocar
@@ -58,18 +55,19 @@ Fortunately, there are already a number of guides we can follow to get started.
 ## OTHER RESOURCES
   - **Education**
     - Udacity Self-driving Car Engineer Nanodegree: https://www.udacity.com/drive
+    - Coursera Robotics Specialization: https://www.coursera.org/specializations/robotics
     - Georgia Tech AI for Robotics: https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
     - Georgia Tech Control of Mobile Robotics: https://www.coursera.org/learn/mobile-robot
     - Formula 1/10 UPenn Lectures: http://f1tenth.org/lectures
     - MIT Deep Learning for SDC: http://selfdrivingcars.mit.edu/
   - **Community**
-    - Donkey (Request invite to their Slack channel): http://www.donkeycar.com/
-    - OSSDC (Also has a Slack channel): http://ossdc.org/
     - DIY Robocars (Meetups)
+      - NYC: https://www.meetup.com/DIY-Robocars-NYC/
       - SF: https://www.meetup.com/DIYRobocars/
       - DC: https://www.meetup.com/DIYRobocarsDC/
       - Austin: https://www.meetup.com/DIYRobocarsATX/
-      - NYC: https://www.meetup.com/DIY-Robocars-NYC/
+    - Donkey (Request invite to their Slack channel): http://www.donkeycar.com/
+    - OSSDC (Also has a Slack channel): http://ossdc.org/
 
 ## COMPETITIONS
 Competitions are a great way to motivate the problem, focus our efforts, and get exposed to what people are doing in the world.
