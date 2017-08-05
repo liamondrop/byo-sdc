@@ -15,7 +15,7 @@ MOOCs have given us unprecedented access to classroom learning, and from this de
     - Fear of catastrophic failure leads us to optimize for safety and for preserving precious equipment without really pushing the boundaries of what the technology can do.
     - Crashing an RC car is not a catastrophic event in the way that crashing a full-size car is.
   - **Push the boundaries of Sensing, Perception and Control**
-    - There’s a quote by Mario Andretti, “If everything seems under control, you’re not going fast enough.” It's only when we push the boundaries of our
+    - There’s a quote by Mario Andretti, “If everything seems under control, you’re not going fast enough.” It's only when we push the boundaries of our technology that we begin to understand where our assumptions break down.
     - We want to push the limits of what our software and hardware can do. We want to move fast, break things, learn, and have fun!
 
 
