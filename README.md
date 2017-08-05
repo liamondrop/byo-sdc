@@ -1,6 +1,6 @@
 # BUILD YOUR OWN SELF-DRIVING CAR
 
-The purpose of this repository is to present the topic of retrofitting a hobbyist car for the purpose of driving it autonomously, as well as collecting a number of resources for making that goal a reality. We hope to see the rise of the Homebrew Computing Club for the autonomous vehicle industry, an opportunity for amateurs, researchers, and DIYers to participate in this burgeoning field in a way that is accessible, affordable, and fun.
+The goal of this repository is to present the topic of retrofitting a hobbyist car for the purpose of driving it autonomously, as well as collecting a number of resources for making that goal a reality. We hope to see the rise of the Homebrew Computing Club for the autonomous vehicle industry, an opportunity for amateurs, researchers, and DIYers to participate in this burgeoning field in a way that is accessible, affordable, and fun.
 
 MOOCs have given us unprecedented access to classroom learning, and from this democratization of knowledge, we’ve already seen a huge surge in creativity, collaboration and experimentation that comes from an open-source culture. We want to extend that all the way to the hardware and the sensors and prove that the software we write and the models we train can really hold their own under real world conditions.
 
