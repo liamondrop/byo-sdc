@@ -1,16 +1,16 @@
 # BUILD YOUR OWN SELF-DRIVING CAR
 
-This repository will present the topic of retrofitting a hobbyist car for the purpose of driving autonomously, as well as collecting a number of resources for making that goal a reality. We hope to see the rise of the Homebrew Computing Club for the autonomous vehicle industry, an opportunity for amateurs, students, and DIYers to participate in a way that is cheap, easy and fun.
+The purpose of this repository is to present the topic of retrofitting a hobbyist car for the purpose of driving it autonomously, as well as collecting a number of resources for making that goal a reality. We hope to see the rise of the Homebrew Computing Club for the autonomous vehicle industry, an opportunity for amateurs, researchers, and DIYers to participate in this burgeoning field in a way that is accessible, affordable, and fun.
 
 MOOCs have given us unprecedented access to classroom learning, and from this democratization of knowledge, we’ve already seen a huge surge in creativity, collaboration and experimentation that comes from an open-source culture. We want to extend that all the way to the hardware and the sensors and prove that the software we write and the models we train can really hold their own under real world conditions.
 
 ### WHY?
   - **Democratize the technology**
-    - The architecture of a self-driving RC car is not in principle different from that of a full-sized vehicle. This puts the full autonomous vehicle architecture within reach of anyone who wants to learn. You now have the ability to work with the full menu of sensors, micro controllers, motors, etc.
-  - **Real world data beats canned video / simulation**
-    - With the classes available, we have been able to write the algorithms for things like steering control, obstacle detection, and path planning. But having a physical platform allows us to move from working code to code that functions in real world conditions. (Udacity Simulator vs Real-time live footage)
+    - The architecture of a self-driving RC car is not, in principle, all that different from that of a full-sized vehicle. This puts the full autonomous vehicle architecture, from the sensors, micro-controllers, motors, etc. to the localization, planning and control algorithms, within reach of anyone who wants to learn.
+  - **Real world data beats simulation**
+    - If you have taken or are considering taking any of the available courses from Udacity, Coursera, or elsewhere, you will have the opportunity to learn about and write the algorithms for things like steering control, obstacle detection, and path planning. And in most cases, you'll run this code against canned data or a simulator. But having access to a physical platform allows you to move from code that works under idealized conditions to code that functions in the real world with all its uncertainty and performance constraints. Not only is this more of a challenge, having this experience makes you valuable.
   - **Cost**
-    - On a cheap, small scale platform, we have the freedom to explore and experiment in ways that researchers working on full-sized cars cannot.
+    - On a cheap, small scale platform, you have the freedom to explore and experiment in ways that researchers working on full-sized cars cannot.
   - **Safety**
     - Fear of catastrophic failure leads us to optimize for safety and for preserving precious equipment without really pushing the boundaries of what the technology can do.
     - Crashing an RC car is not a catastrophic event in the way that crashing a full-size car is
